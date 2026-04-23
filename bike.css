@@ -1,0 +1,22 @@
+.bg {
+    padding: 0px;
+    margin: 0%;
+    height:100vh;
+    background-image: url(77.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.bike{
+position: absolute;
+bottom: -0%;
+left: 0%;
+width: 100%;
+}
+.thar{
+position: absolute;
+bottom: -40%;
+left: 0%;
+width: 100%;
+}
